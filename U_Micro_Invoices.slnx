@@ -1,1 +1,17 @@
-<Solution />
+<Solution>
+  <Folder Name="/A.Domain/">
+    <Project Path="src/Domain/Domain.csproj" Id="d1ab26f8-434e-4e81-9a33-2aed556fd574" />
+  </Folder>
+  <Folder Name="/B.Core/">
+    <Project Path="src/Core/Core.csproj" Id="ad2c28c0-e3c4-4fcb-91e2-711fef119fc8" />
+  </Folder>
+  <Folder Name="/C.Persistence/">
+    <Project Path="src/Persistence/Persistence.csproj" Id="448f5874-8304-4219-a21e-6d7e83bfe955" />
+  </Folder>
+  <Folder Name="/D.Externals/">
+    <Project Path="src/Externals/Externals.csproj" Id="5e02c38c-364d-4c46-8532-dad0a5e27d93" />
+  </Folder>
+  <Folder Name="/E.API/">
+    <Project Path="src/Api/Api.csproj" Id="1f875fd7-2bba-46d5-a552-198804f002b4" />
+  </Folder>
+</Solution>
